@@ -1,4 +1,4 @@
-package Server;
+package server;
 
 import fileWorkers.Loader;
 import fileWorkers.Saver;

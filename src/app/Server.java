@@ -1,4 +1,4 @@
-package App;
+package app;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -8,7 +8,7 @@ import javafx.scene.control.TabPane;
 import javafx.scene.control.TextArea;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import Server.ServerThread;
+import server.ServerThread;
 
 
 public class Server extends Application {

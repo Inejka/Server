@@ -25,16 +25,16 @@ model/student/PackedGroupAndLimits.java
  model.student.PackedGroupAndLimits
 Main.java
  Main
-App/Server.java
- App.Server
+support/Commands.java
+ support.Commands
 model/Model.java
  model.Model
 fileWorkers/Saver.java
  fileWorkers.Saver
+model/student/FIO.java
+ model.student.FIO
+App/Server.java
+ App.Server
 Server/ServerThread.java
  Server.ServerThread
  Server.ServerThread$1
-model/student/FIO.java
- model.student.FIO
-support/Commands.java
- support.Commands

@@ -1,4 +1,4 @@
-package Server;
+package server;
 
 import javafx.application.Platform;
 import javafx.scene.control.Tab;
@@ -58,26 +58,31 @@ public class ServerThread implements Runnable {
         try {
             while (alive) {
                 Socket clientSocket = serverSocket.accept();
-                if (isOn) {
-                    if (!addresses.contains(clientSocket)) {
-                        var temp = new ClientSocket(clientSocket);
-                        Platform.runLater(
-                                new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        temp.setTab(createTab.apply(clientSocket.getInetAddress().toString()));
-                                    }
-                                });
-                        addresses.add(clientSocket);
-                    }
-                } else {
+                if (isOn)
+                    startSocket(clientSocket);
+                else
                     clientSocket.close();
-                }
                 addresses.removeIf(Socket::isClosed);
             }
         } catch (Exception e) {
             logger.error(e);
         }
+        closeSockets();
+    }
+
+    private void startSocket(Socket clientSocket) {
+        var temp = new ClientSocket(clientSocket);
+        Platform.runLater(
+                new Runnable() {
+                    @Override
+                    public void run() {
+                        temp.setTab(createTab.apply(clientSocket.getInetAddress().toString()));
+                    }
+                });
+        addresses.add(clientSocket);
+    }
+
+    private void closeSockets() {
         for (Socket address : addresses) {
             try {
                 address.close();
