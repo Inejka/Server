@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <Student>
+        <surname>Кулагинский</surname>
+        <name>Поликарп</name>
+        <patronymic>Геннадиевич</patronymic>
+        <group>851402</group>
+        <Works>
+            <Work id="0">37</Work>
+            <Work id="1">30</Work>
+            <Work id="2">41</Work>
+            <Work id="3">31</Work>
+            <Work id="4">47</Work>
+            <Work id="5">15</Work>
+            <Work id="6">25</Work>
+            <Work id="7">16</Work>
+            <Work id="8">27</Work>
+            <Work id="9">10</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Дедова</surname>
+        <name>Алла</name>
+        <patronymic>Вацлавовна</patronymic>
+        <group>811504</group>
+        <Works>
+            <Work id="0">37</Work>
+            <Work id="1">48</Work>
+            <Work id="2">25</Work>
+            <Work id="3">36</Work>
+            <Work id="4">19</Work>
+            <Work id="5">16</Work>
+            <Work id="6">10</Work>
+            <Work id="7">39</Work>
+            <Work id="8">27</Work>
+            <Work id="9">50</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Чистякова</surname>
+        <name>Александра</name>
+        <patronymic>Бориславовна</patronymic>
+        <group>733301</group>
+        <Works>
+            <Work id="0">33</Work>
+            <Work id="1">43</Work>
+            <Work id="2">28</Work>
+            <Work id="3">29</Work>
+            <Work id="4">25</Work>
+            <Work id="5">39</Work>
+            <Work id="6">28</Work>
+            <Work id="7">12</Work>
+            <Work id="8">20</Work>
+            <Work id="9">17</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Рябоконь</surname>
+        <name>Емельян</name>
+        <patronymic>Анатолиевич</patronymic>
+        <group>810402</group>
+        <Works>
+            <Work id="0">13</Work>
+            <Work id="1">39</Work>
+            <Work id="2">15</Work>
+            <Work id="3">38</Work>
+            <Work id="4">37</Work>
+            <Work id="5">35</Work>
+            <Work id="6">13</Work>
+            <Work id="7">16</Work>
+            <Work id="8">12</Work>
+            <Work id="9">46</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Яньков</surname>
+        <name>Севастьян</name>
+        <patronymic>Андронович</patronymic>
+        <group>733301</group>
+        <Works>
+            <Work id="0">34</Work>
+            <Work id="1">23</Work>
+            <Work id="2">14</Work>
+            <Work id="3">41</Work>
+            <Work id="4">21</Work>
+            <Work id="5">16</Work>
+            <Work id="6">44</Work>
+            <Work id="7">48</Work>
+            <Work id="8">26</Work>
+            <Work id="9">42</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Сиянова</surname>
+        <name>Доминика</name>
+        <patronymic>Павловна</patronymic>
+        <group>341401</group>
+        <Works>
+            <Work id="0">17</Work>
+            <Work id="1">28</Work>
+            <Work id="2">10</Work>
+            <Work id="3">40</Work>
+            <Work id="4">16</Work>
+            <Work id="5">44</Work>
+            <Work id="6">39</Work>
+            <Work id="7">26</Work>
+            <Work id="8">29</Work>
+            <Work id="9">11</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Сереброва</surname>
+        <name>Альбина</name>
+        <patronymic>Евремовна</patronymic>
+        <group>851402</group>
+        <Works>
+            <Work id="0">47</Work>
+            <Work id="1">41</Work>
+            <Work id="2">48</Work>
+            <Work id="3">11</Work>
+            <Work id="4">10</Work>
+            <Work id="5">31</Work>
+            <Work id="6">42</Work>
+            <Work id="7">40</Work>
+            <Work id="8">14</Work>
+            <Work id="9">10</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Громова</surname>
+        <name>Ева</name>
+        <patronymic>Алексеевна</patronymic>
+        <group>452501</group>
+        <Works>
+            <Work id="0">50</Work>
+            <Work id="1">23</Work>
+            <Work id="2">17</Work>
+            <Work id="3">21</Work>
+            <Work id="4">43</Work>
+            <Work id="5">40</Work>
+            <Work id="6">17</Work>
+            <Work id="7">40</Work>
+            <Work id="8">28</Work>
+            <Work id="9">29</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Устимович</surname>
+        <name>Лиана</name>
+        <patronymic>Терентьевна</patronymic>
+        <group>810402</group>
+        <Works>
+            <Work id="0">26</Work>
+            <Work id="1">28</Work>
+            <Work id="2">35</Work>
+            <Work id="3">21</Work>
+            <Work id="4">24</Work>
+            <Work id="5">37</Work>
+            <Work id="6">11</Work>
+            <Work id="7">20</Work>
+            <Work id="8">21</Work>
+            <Work id="9">20</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Ябурова</surname>
+        <name>Людмила</name>
+        <patronymic>Кузьмевна</patronymic>
+        <group>821402</group>
+        <Works>
+            <Work id="0">19</Work>
+            <Work id="1">46</Work>
+            <Work id="2">17</Work>
+            <Work id="3">33</Work>
+            <Work id="4">17</Work>
+            <Work id="5">30</Work>
+            <Work id="6">32</Work>
+            <Work id="7">20</Work>
+            <Work id="8">25</Work>
+            <Work id="9">12</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Курепин</surname>
+        <name>Ипатий</name>
+        <patronymic>Викентиевич</patronymic>
+        <group>733301</group>
+        <Works>
+            <Work id="0">18</Work>
+            <Work id="1">45</Work>
+            <Work id="2">31</Work>
+            <Work id="3">36</Work>
+            <Work id="4">22</Work>
+            <Work id="5">43</Work>
+            <Work id="6">48</Work>
+            <Work id="7">16</Work>
+            <Work id="8">39</Work>
+            <Work id="9">46</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Левицкий</surname>
+        <name>Платон</name>
+        <patronymic>Сигизмундович</patronymic>
+        <group>725203</group>
+        <Works>
+            <Work id="0">14</Work>
+            <Work id="1">35</Work>
+            <Work id="2">12</Work>
+            <Work id="3">35</Work>
+            <Work id="4">46</Work>
+            <Work id="5">49</Work>
+            <Work id="6">44</Work>
+            <Work id="7">16</Work>
+            <Work id="8">16</Work>
+            <Work id="9">18</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Киреев</surname>
+        <name>Эрнест</name>
+        <patronymic>Зиновиевич</patronymic>
+        <group>633503</group>
+        <Works>
+            <Work id="0">29</Work>
+            <Work id="1">39</Work>
+            <Work id="2">47</Work>
+            <Work id="3">24</Work>
+            <Work id="4">16</Work>
+            <Work id="5">50</Work>
+            <Work id="6">21</Work>
+            <Work id="7">41</Work>
+            <Work id="8">27</Work>
+            <Work id="9">34</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Щегельский</surname>
+        <name>Святослав</name>
+        <patronymic>Святославович</patronymic>
+        <group>452501</group>
+        <Works>
+            <Work id="0">44</Work>
+            <Work id="1">42</Work>
+            <Work id="2">42</Work>
+            <Work id="3">16</Work>
+            <Work id="4">50</Work>
+            <Work id="5">30</Work>
+            <Work id="6">49</Work>
+            <Work id="7">19</Work>
+            <Work id="8">11</Work>
+            <Work id="9">20</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Прудникова</surname>
+        <name>Эльвира</name>
+        <patronymic>Евремовна</patronymic>
+        <group>725203</group>
+        <Works>
+            <Work id="0">27</Work>
+            <Work id="1">40</Work>
+            <Work id="2">44</Work>
+            <Work id="3">28</Work>
+            <Work id="4">25</Work>
+            <Work id="5">13</Work>
+            <Work id="6">31</Work>
+            <Work id="7">46</Work>
+            <Work id="8">39</Work>
+            <Work id="9">13</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Маслюк</surname>
+        <name>Анастасия</name>
+        <patronymic>Зиновьевна</patronymic>
+        <group>614102</group>
+        <Works>
+            <Work id="0">44</Work>
+            <Work id="1">26</Work>
+            <Work id="2">17</Work>
+            <Work id="3">15</Work>
+            <Work id="4">47</Work>
+            <Work id="5">25</Work>
+            <Work id="6">27</Work>
+            <Work id="7">16</Work>
+            <Work id="8">50</Work>
+            <Work id="9">25</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Кабисов</surname>
+        <name>Владимир</name>
+        <patronymic>Леонович</patronymic>
+        <group>733301</group>
+        <Works>
+            <Work id="0">18</Work>
+            <Work id="1">43</Work>
+            <Work id="2">45</Work>
+            <Work id="3">26</Work>
+            <Work id="4">13</Work>
+            <Work id="5">23</Work>
+            <Work id="6">17</Work>
+            <Work id="7">13</Work>
+            <Work id="8">34</Work>
+            <Work id="9">22</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Ухов</surname>
+        <name>Кондратий</name>
+        <patronymic>Архипович</patronymic>
+        <group>851402</group>
+        <Works>
+            <Work id="0">35</Work>
+            <Work id="1">13</Work>
+            <Work id="2">15</Work>
+            <Work id="3">24</Work>
+            <Work id="4">32</Work>
+            <Work id="5">10</Work>
+            <Work id="6">38</Work>
+            <Work id="7">49</Work>
+            <Work id="8">49</Work>
+            <Work id="9">36</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Ерзов</surname>
+        <name>Серафим</name>
+        <patronymic>Евгениевич</patronymic>
+        <group>962501</group>
+        <Works>
+            <Work id="0">45</Work>
+            <Work id="1">38</Work>
+            <Work id="2">18</Work>
+            <Work id="3">36</Work>
+            <Work id="4">18</Work>
+            <Work id="5">41</Work>
+            <Work id="6">38</Work>
+            <Work id="7">13</Work>
+            <Work id="8">41</Work>
+            <Work id="9">40</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Чупрова</surname>
+        <name>Евдокия</name>
+        <patronymic>Степановна</patronymic>
+        <group>921523</group>
+        <Works>
+            <Work id="0">31</Work>
+            <Work id="1">18</Work>
+            <Work id="2">32</Work>
+            <Work id="3">38</Work>
+            <Work id="4">30</Work>
+            <Work id="5">13</Work>
+            <Work id="6">38</Work>
+            <Work id="7">30</Work>
+            <Work id="8">22</Work>
+            <Work id="9">19</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Суханова</surname>
+        <name>Анастасия</name>
+        <patronymic>Сергеевна</patronymic>
+        <group>921523</group>
+        <Works>
+            <Work id="0">41</Work>
+            <Work id="1">43</Work>
+            <Work id="2">40</Work>
+            <Work id="3">47</Work>
+            <Work id="4">17</Work>
+            <Work id="5">33</Work>
+            <Work id="6">31</Work>
+            <Work id="7">18</Work>
+            <Work id="8">19</Work>
+            <Work id="9">41</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Шубкин</surname>
+        <name>Варфоломей</name>
+        <patronymic>Артемиевич</patronymic>
+        <group>452501</group>
+        <Works>
+            <Work id="0">48</Work>
+            <Work id="1">18</Work>
+            <Work id="2">38</Work>
+            <Work id="3">15</Work>
+            <Work id="4">43</Work>
+            <Work id="5">34</Work>
+            <Work id="6">16</Work>
+            <Work id="7">46</Work>
+            <Work id="8">19</Work>
+            <Work id="9">14</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Аглеева</surname>
+        <name>Розалия</name>
+        <patronymic>Тихоновна</patronymic>
+        <group>614102</group>
+        <Works>
+            <Work id="0">50</Work>
+            <Work id="1">27</Work>
+            <Work id="2">39</Work>
+            <Work id="3">35</Work>
+            <Work id="4">25</Work>
+            <Work id="5">47</Work>
+            <Work id="6">16</Work>
+            <Work id="7">26</Work>
+            <Work id="8">49</Work>
+            <Work id="9">33</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Тихомиров</surname>
+        <name>Емельян</name>
+        <patronymic>Чеславович</patronymic>
+        <group>733301</group>
+        <Works>
+            <Work id="0">44</Work>
+            <Work id="1">39</Work>
+            <Work id="2">38</Work>
+            <Work id="3">43</Work>
+            <Work id="4">13</Work>
+            <Work id="5">23</Work>
+            <Work id="6">32</Work>
+            <Work id="7">24</Work>
+            <Work id="8">44</Work>
+            <Work id="9">40</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Анюков</surname>
+        <name>Марк</name>
+        <patronymic>Казимирович</patronymic>
+        <group>733301</group>
+        <Works>
+            <Work id="0">49</Work>
+            <Work id="1">30</Work>
+            <Work id="2">11</Work>
+            <Work id="3">18</Work>
+            <Work id="4">50</Work>
+            <Work id="5">43</Work>
+            <Work id="6">46</Work>
+            <Work id="7">41</Work>
+            <Work id="8">40</Work>
+            <Work id="9">14</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Ярощук</surname>
+        <name>Виктор</name>
+        <patronymic>Яковович</patronymic>
+        <group>633503</group>
+        <Works>
+            <Work id="0">28</Work>
+            <Work id="1">47</Work>
+            <Work id="2">27</Work>
+            <Work id="3">20</Work>
+            <Work id="4">20</Work>
+            <Work id="5">31</Work>
+            <Work id="6">25</Work>
+            <Work id="7">34</Work>
+            <Work id="8">16</Work>
+            <Work id="9">20</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Алехин</surname>
+        <name>Михаил</name>
+        <patronymic>Эдуардович</patronymic>
+        <group>811504</group>
+        <Works>
+            <Work id="0">44</Work>
+            <Work id="1">38</Work>
+            <Work id="2">48</Work>
+            <Work id="3">31</Work>
+            <Work id="4">42</Work>
+            <Work id="5">50</Work>
+            <Work id="6">28</Work>
+            <Work id="7">18</Work>
+            <Work id="8">45</Work>
+            <Work id="9">40</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Бойков</surname>
+        <name>Андрей</name>
+        <patronymic>Маркович</patronymic>
+        <group>921523</group>
+        <Works>
+            <Work id="0">25</Work>
+            <Work id="1">21</Work>
+            <Work id="2">35</Work>
+            <Work id="3">32</Work>
+            <Work id="4">45</Work>
+            <Work id="5">12</Work>
+            <Work id="6">32</Work>
+            <Work id="7">50</Work>
+            <Work id="8">36</Work>
+            <Work id="9">42</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Никешина</surname>
+        <name>Галина</name>
+        <patronymic>Серафимовна</patronymic>
+        <group>811504</group>
+        <Works>
+            <Work id="0">29</Work>
+            <Work id="1">24</Work>
+            <Work id="2">28</Work>
+            <Work id="3">11</Work>
+            <Work id="4">21</Work>
+            <Work id="5">45</Work>
+            <Work id="6">13</Work>
+            <Work id="7">43</Work>
+            <Work id="8">48</Work>
+            <Work id="9">26</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Сабанцева</surname>
+        <name>Алина</name>
+        <patronymic>Никаровна</patronymic>
+        <group>452501</group>
+        <Works>
+            <Work id="0">31</Work>
+            <Work id="1">12</Work>
+            <Work id="2">28</Work>
+            <Work id="3">33</Work>
+            <Work id="4">30</Work>
+            <Work id="5">30</Work>
+            <Work id="6">25</Work>
+            <Work id="7">26</Work>
+            <Work id="8">24</Work>
+            <Work id="9">21</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Семичаевский</surname>
+        <name>Агап</name>
+        <patronymic>Изяславович</patronymic>
+        <group>725203</group>
+        <Works>
+            <Work id="0">35</Work>
+            <Work id="1">24</Work>
+            <Work id="2">25</Work>
+            <Work id="3">13</Work>
+            <Work id="4">41</Work>
+            <Work id="5">33</Work>
+            <Work id="6">40</Work>
+            <Work id="7">34</Work>
+            <Work id="8">22</Work>
+            <Work id="9">16</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Выгузов</surname>
+        <name>Артур</name>
+        <patronymic>Якубович</patronymic>
+        <group>341401</group>
+        <Works>
+            <Work id="0">22</Work>
+            <Work id="1">27</Work>
+            <Work id="2">39</Work>
+            <Work id="3">16</Work>
+            <Work id="4">22</Work>
+            <Work id="5">30</Work>
+            <Work id="6">17</Work>
+            <Work id="7">23</Work>
+            <Work id="8">47</Work>
+            <Work id="9">35</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Янушковская</surname>
+        <name>Вера</name>
+        <patronymic>Сократовна</patronymic>
+        <group>633503</group>
+        <Works>
+            <Work id="0">33</Work>
+            <Work id="1">30</Work>
+            <Work id="2">20</Work>
+            <Work id="3">13</Work>
+            <Work id="4">10</Work>
+            <Work id="5">23</Work>
+            <Work id="6">29</Work>
+            <Work id="7">40</Work>
+            <Work id="8">50</Work>
+            <Work id="9">49</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Ковригин</surname>
+        <name>Капитон</name>
+        <patronymic>Макарович</patronymic>
+        <group>811504</group>
+        <Works>
+            <Work id="0">45</Work>
+            <Work id="1">47</Work>
+            <Work id="2">24</Work>
+            <Work id="3">20</Work>
+            <Work id="4">24</Work>
+            <Work id="5">18</Work>
+            <Work id="6">31</Work>
+            <Work id="7">15</Work>
+            <Work id="8">12</Work>
+            <Work id="9">26</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Кулагинский</surname>
+        <name>Борис</name>
+        <patronymic>Пахомович</patronymic>
+        <group>821402</group>
+        <Works>
+            <Work id="0">34</Work>
+            <Work id="1">24</Work>
+            <Work id="2">48</Work>
+            <Work id="3">22</Work>
+            <Work id="4">38</Work>
+            <Work id="5">18</Work>
+            <Work id="6">46</Work>
+            <Work id="7">30</Work>
+            <Work id="8">27</Work>
+            <Work id="9">33</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Лапухина</surname>
+        <name>Марина</name>
+        <patronymic>Вениаминовна</patronymic>
+        <group>962501</group>
+        <Works>
+            <Work id="0">40</Work>
+            <Work id="1">35</Work>
+            <Work id="2">11</Work>
+            <Work id="3">16</Work>
+            <Work id="4">26</Work>
+            <Work id="5">46</Work>
+            <Work id="6">50</Work>
+            <Work id="7">39</Work>
+            <Work id="8">40</Work>
+            <Work id="9">45</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Статник</surname>
+        <name>Самуил</name>
+        <patronymic>Леонович</patronymic>
+        <group>962501</group>
+        <Works>
+            <Work id="0">22</Work>
+            <Work id="1">27</Work>
+            <Work id="2">29</Work>
+            <Work id="3">33</Work>
+            <Work id="4">12</Work>
+            <Work id="5">19</Work>
+            <Work id="6">32</Work>
+            <Work id="7">25</Work>
+            <Work id="8">37</Work>
+            <Work id="9">24</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Якунин</surname>
+        <name>Никанор</name>
+        <patronymic>Ефремович</patronymic>
+        <group>614102</group>
+        <Works>
+            <Work id="0">41</Work>
+            <Work id="1">36</Work>
+            <Work id="2">26</Work>
+            <Work id="3">26</Work>
+            <Work id="4">33</Work>
+            <Work id="5">31</Work>
+            <Work id="6">42</Work>
+            <Work id="7">17</Work>
+            <Work id="8">44</Work>
+            <Work id="9">16</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Кулагинский</surname>
+        <name>Андрон</name>
+        <patronymic>Андронович</patronymic>
+        <group>633503</group>
+        <Works>
+            <Work id="0">19</Work>
+            <Work id="1">11</Work>
+            <Work id="2">32</Work>
+            <Work id="3">12</Work>
+            <Work id="4">32</Work>
+            <Work id="5">30</Work>
+            <Work id="6">25</Work>
+            <Work id="7">49</Work>
+            <Work id="8">27</Work>
+            <Work id="9">47</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Никольников</surname>
+        <name>Юлий</name>
+        <patronymic>Назарович</patronymic>
+        <group>962501</group>
+        <Works>
+            <Work id="0">44</Work>
+            <Work id="1">46</Work>
+            <Work id="2">49</Work>
+            <Work id="3">25</Work>
+            <Work id="4">10</Work>
+            <Work id="5">39</Work>
+            <Work id="6">41</Work>
+            <Work id="7">45</Work>
+            <Work id="8">16</Work>
+            <Work id="9">41</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Герций</surname>
+        <name>Геннадий</name>
+        <patronymic>Несторович</patronymic>
+        <group>725203</group>
+        <Works>
+            <Work id="0">22</Work>
+            <Work id="1">22</Work>
+            <Work id="2">45</Work>
+            <Work id="3">31</Work>
+            <Work id="4">42</Work>
+            <Work id="5">31</Work>
+            <Work id="6">50</Work>
+            <Work id="7">14</Work>
+            <Work id="8">30</Work>
+            <Work id="9">12</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Цейдлерин</surname>
+        <name>Клавдий</name>
+        <patronymic>Сидорович</patronymic>
+        <group>452501</group>
+        <Works>
+            <Work id="0">18</Work>
+            <Work id="1">37</Work>
+            <Work id="2">11</Work>
+            <Work id="3">29</Work>
+            <Work id="4">33</Work>
+            <Work id="5">45</Work>
+            <Work id="6">14</Work>
+            <Work id="7">24</Work>
+            <Work id="8">48</Work>
+            <Work id="9">32</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Янцев</surname>
+        <name>Кондратий</name>
+        <patronymic>Сократович</patronymic>
+        <group>810402</group>
+        <Works>
+            <Work id="0">30</Work>
+            <Work id="1">14</Work>
+            <Work id="2">19</Work>
+            <Work id="3">12</Work>
+            <Work id="4">27</Work>
+            <Work id="5">32</Work>
+            <Work id="6">28</Work>
+            <Work id="7">30</Work>
+            <Work id="8">36</Work>
+            <Work id="9">10</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Козарис</surname>
+        <name>Аза</name>
+        <patronymic>Мирославовна</patronymic>
+        <group>341401</group>
+        <Works>
+            <Work id="0">16</Work>
+            <Work id="1">47</Work>
+            <Work id="2">18</Work>
+            <Work id="3">38</Work>
+            <Work id="4">24</Work>
+            <Work id="5">49</Work>
+            <Work id="6">40</Work>
+            <Work id="7">34</Work>
+            <Work id="8">30</Work>
+            <Work id="9">24</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Иванкова</surname>
+        <name>Алла</name>
+        <patronymic>Герасимовна</patronymic>
+        <group>633503</group>
+        <Works>
+            <Work id="0">50</Work>
+            <Work id="1">20</Work>
+            <Work id="2">14</Work>
+            <Work id="3">45</Work>
+            <Work id="4">37</Work>
+            <Work id="5">42</Work>
+            <Work id="6">26</Work>
+            <Work id="7">14</Work>
+            <Work id="8">46</Work>
+            <Work id="9">44</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Еркулаева</surname>
+        <name>Ефросинья</name>
+        <patronymic>Ираклиевна</patronymic>
+        <group>633503</group>
+        <Works>
+            <Work id="0">35</Work>
+            <Work id="1">38</Work>
+            <Work id="2">25</Work>
+            <Work id="3">28</Work>
+            <Work id="4">36</Work>
+            <Work id="5">39</Work>
+            <Work id="6">49</Work>
+            <Work id="7">34</Work>
+            <Work id="8">40</Work>
+            <Work id="9">33</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Черных</surname>
+        <name>Андриян</name>
+        <patronymic>Капитонович</patronymic>
+        <group>633503</group>
+        <Works>
+            <Work id="0">22</Work>
+            <Work id="1">39</Work>
+            <Work id="2">48</Work>
+            <Work id="3">39</Work>
+            <Work id="4">14</Work>
+            <Work id="5">19</Work>
+            <Work id="6">23</Work>
+            <Work id="7">25</Work>
+            <Work id="8">12</Work>
+            <Work id="9">38</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Кабисов</surname>
+        <name>Кондратий</name>
+        <patronymic>Севастьянович</patronymic>
+        <group>921523</group>
+        <Works>
+            <Work id="0">30</Work>
+            <Work id="1">50</Work>
+            <Work id="2">23</Work>
+            <Work id="3">50</Work>
+            <Work id="4">16</Work>
+            <Work id="5">50</Work>
+            <Work id="6">35</Work>
+            <Work id="7">31</Work>
+            <Work id="8">15</Work>
+            <Work id="9">20</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Арцишевский</surname>
+        <name>Лавр</name>
+        <patronymic>Михаилович</patronymic>
+        <group>921523</group>
+        <Works>
+            <Work id="0">33</Work>
+            <Work id="1">17</Work>
+            <Work id="2">30</Work>
+            <Work id="3">22</Work>
+            <Work id="4">19</Work>
+            <Work id="5">40</Work>
+            <Work id="6">47</Work>
+            <Work id="7">40</Work>
+            <Work id="8">45</Work>
+            <Work id="9">46</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Пирожков</surname>
+        <name>Даниил</name>
+        <patronymic>Герасимович</patronymic>
+        <group>962501</group>
+        <Works>
+            <Work id="0">25</Work>
+            <Work id="1">44</Work>
+            <Work id="2">42</Work>
+            <Work id="3">48</Work>
+            <Work id="4">15</Work>
+            <Work id="5">29</Work>
+            <Work id="6">40</Work>
+            <Work id="7">37</Work>
+            <Work id="8">20</Work>
+            <Work id="9">32</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Дорога</surname>
+        <name>Ева</name>
+        <patronymic>Вениаминовна</patronymic>
+        <group>851402</group>
+        <Works>
+            <Work id="0">46</Work>
+            <Work id="1">15</Work>
+            <Work id="2">47</Work>
+            <Work id="3">45</Work>
+            <Work id="4">48</Work>
+            <Work id="5">18</Work>
+            <Work id="6">16</Work>
+            <Work id="7">27</Work>
+            <Work id="8">20</Work>
+            <Work id="9">32</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Кондучалов</surname>
+        <name>Фока</name>
+        <patronymic>Самуилович</patronymic>
+        <group>810402</group>
+        <Works>
+            <Work id="0">38</Work>
+            <Work id="1">13</Work>
+            <Work id="2">47</Work>
+            <Work id="3">44</Work>
+            <Work id="4">47</Work>
+            <Work id="5">47</Work>
+            <Work id="6">19</Work>
+            <Work id="7">44</Work>
+            <Work id="8">22</Work>
+            <Work id="9">14</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Шуйская</surname>
+        <name>Владислава</name>
+        <patronymic>Андрияновна</patronymic>
+        <group>725203</group>
+        <Works>
+            <Work id="0">35</Work>
+            <Work id="1">35</Work>
+            <Work id="2">46</Work>
+            <Work id="3">33</Work>
+            <Work id="4">35</Work>
+            <Work id="5">28</Work>
+            <Work id="6">28</Work>
+            <Work id="7">45</Work>
+            <Work id="8">29</Work>
+            <Work id="9">39</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Чурсунов</surname>
+        <name>Емельян</name>
+        <patronymic>Ефремович</patronymic>
+        <group>5235023</group>
+        <Works>
+            <Work id="0">11</Work>
+            <Work id="1">29</Work>
+            <Work id="2">23</Work>
+            <Work id="3">15</Work>
+            <Work id="4">43</Work>
+            <Work id="5">11</Work>
+            <Work id="6">39</Work>
+            <Work id="7">33</Work>
+            <Work id="8">20</Work>
+            <Work id="9">15</Work>
+        </Works>
+    </Student>
+    <Student>
+        <surname>Подогова</surname>
+        <name>Маргарита</name>
+        <patronymic>Вацлавовна</patronymic>
+        <group>821402</group>
+        <Works>
+            <Work id="0">44</Work>
+            <Work id="1">17</Work>
+            <Work id="2">33</Work>
+            <Work id="3">49</Work>
+            <Work id="4">41</Work>
+            <Work id="5">50</Work>
+            <Work id="6">47</Work>
+            <Work id="7">44</Work>
+            <Work id="8">23</Work>
+            <Work id="9">40</Work>
+        </Works>
+    </Student>
+</root>
