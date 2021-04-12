@@ -15,7 +15,7 @@ import java.util.List;
 
 public class Loader {
     final List<Student> toSave;
-    String name;
+    final String name;
 
     public Loader(List<Student> toSave, String name) {
         this.toSave = toSave;

@@ -4,8 +4,9 @@ import java.io.Serializable;
 
 public class PackedSurnameAndLimits implements Serializable {
     private static final long serialVersionUID = 6L;
-    private String surname;
-    private int lowerLimit, upperLimit;
+    private final String surname;
+    private final int lowerLimit;
+    private final int upperLimit;
 
     public String getSurname() {
         return surname;

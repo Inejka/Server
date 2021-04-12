@@ -4,8 +4,9 @@ import java.io.Serializable;
 
 public class PackedGroupAndLimits implements Serializable {
     private static final long serialVersionUID = 5L;
-    private Group group;
-    private int lowerLimit, upperLimit;
+    private final Group group;
+    private final int lowerLimit;
+    private final int upperLimit;
 
     public Group getGroup() {
         return group;

@@ -5,9 +5,9 @@ import java.io.Serializable;
 
 public class Message implements Serializable {
     private static final long serialVersionUID = 7L;
-    private MessageType type;
+    private final MessageType type;
     private Object data;
-    private Commands command;
+    private final Commands command;
 
     public MessageType getType() {
         return type;

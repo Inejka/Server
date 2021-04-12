@@ -26,11 +26,11 @@ import java.util.List;
 public class ClientSocket implements Runnable {
     private static final Logger logger = LogManager.getLogger(ClientSocket.class);
 
-    private Thread thread;
-    private Socket socket;
+    private final Thread thread;
+    private final Socket socket;
     ObjectOutput objectOutput;
     String command;
-    private Model model = new Model();
+    private final Model model = new Model();
     Tab tab;
 
     ClientSocket(Socket socket) {
@@ -73,7 +73,7 @@ public class ClientSocket implements Runnable {
         } catch (IOException exception) {
             logger.error(exception);
         }
-        appendText("Data sended " + toSend);
+        appendText("Data sent " + toSend);
     }
 
     public void response(Message message) {
@@ -104,16 +104,13 @@ public class ClientSocket implements Runnable {
             }
             case load -> new Loader(model.getStudents(), (String) message.getData()).load();
             case save -> new Saver(model.getStudents(), (String) message.getData()).save();
-            case closeTab -> Platform.runLater(new Runnable() {
-                @Override
-                public void run() {
-                    try {
-                        Thread.sleep(50);
-                    } catch (InterruptedException e) {
-                        logger.error(e);
-                    }
-                    tab.getTabPane().getTabs().remove(tab);
+            case closeTab -> Platform.runLater(() -> {
+                try {
+                    Thread.sleep(50);
+                } catch (InterruptedException e) {
+                    logger.error(e);
                 }
+                tab.getTabPane().getTabs().remove(tab);
             });
             case pop -> model.pop();
         }
@@ -153,9 +150,7 @@ public class ClientSocket implements Runnable {
         } catch (IOException exception) {
             logger.error(exception);
         }
-        while (!socket.isClosed()) {
-
-        }
+        while (!socket.isClosed()) {}
         appendText("Socket stopped");
     }
 }

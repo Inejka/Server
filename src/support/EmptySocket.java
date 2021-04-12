@@ -11,7 +11,7 @@ import java.util.Set;
 public class EmptySocket extends Thread {
     private static final Logger logger = LogManager.getLogger(EmptySocket.class);
 
-    Set<Socket> addresses;
+    final Set<Socket> addresses;
 
     public EmptySocket(Set<Socket> addresses) {
         this.addresses = addresses;

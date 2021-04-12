@@ -22,7 +22,7 @@ public class Server extends Application {
 
 
     @Override
-    public void start(Stage primaryStage) throws Exception {
+    public void start(Stage primaryStage) {
         serverThread = new ServerThread(this::createTab);
         primaryStage.setOnCloseRequest(e -> serverThread.stop());
         VBox root = new VBox();

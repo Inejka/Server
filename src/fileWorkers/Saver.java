@@ -21,7 +21,7 @@ import java.util.List;
 public class Saver {
     private static final Logger logger = LogManager.getLogger(Saver.class);
     final List<Student> toSave;
-    String name;
+    final String name;
 
     public Saver(List<Student> toSave, String name) {
         this.toSave = toSave;

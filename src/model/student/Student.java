@@ -1,13 +1,11 @@
 package model.student;
 
 import java.io.Serializable;
-import java.util.Arrays;
-import java.util.Objects;
 
 public class Student implements Serializable {
     private static final long serialVersionUID = 4L;
-    FIO fio;
-    Group group;
+    final FIO fio;
+    final Group group;
     PublicWork[] semesters = new PublicWork[10];
 
     public Student(FIO fio, Group group, PublicWork[] semesters) {

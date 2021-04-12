@@ -5,9 +5,9 @@ import java.util.Objects;
 
 public class FIO implements Serializable {
     private static final long serialVersionUID = 1L;
-    private String surname;  // Фамилия
-    private String name;     // Имя
-    private String patronymic;   //Отчество
+    private final String surname;  // Фамилия
+    private final String name;     // Имя
+    private final String patronymic;   //Отчество
 
     public FIO(String surname,String name,String patronymic){
         this.surname=surname;

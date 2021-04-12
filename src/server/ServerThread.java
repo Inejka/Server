@@ -17,13 +17,13 @@ import java.util.function.Function;
 public class ServerThread implements Runnable {
     private static final Logger logger = LogManager.getLogger(ServerThread.class);
 
-    Thread thread;
+    final Thread thread;
     boolean isOn = false;
     boolean alive = true;
     private ServerSocket serverSocket;
     EmptySocket emptySocket;
-    Set<Socket> addresses = new LinkedHashSet<>();
-    Function<String, Tab> createTab;
+    final Set<Socket> addresses = new LinkedHashSet<>();
+    final Function<String, Tab> createTab;
 
     public ServerThread(Function<String, Tab> createTab) {
         thread = new Thread(this);
@@ -73,12 +73,7 @@ public class ServerThread implements Runnable {
     private void startSocket(Socket clientSocket) {
         var temp = new ClientSocket(clientSocket);
         Platform.runLater(
-                new Runnable() {
-                    @Override
-                    public void run() {
-                        temp.setTab(createTab.apply(clientSocket.getInetAddress().toString()));
-                    }
-                });
+                () -> temp.setTab(createTab.apply(clientSocket.getInetAddress().toString())));
         addresses.add(clientSocket);
     }
 

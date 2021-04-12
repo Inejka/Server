@@ -19,7 +19,7 @@ public class Model {
         this.students.add(students);
     }
 
-    private Stack<List<Student>> students = new Stack<>();
+    private final Stack<List<Student>> students = new Stack<>();
 
     public Model() {
         students.add(new LinkedList<>());

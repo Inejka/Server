@@ -9,9 +9,9 @@ import java.util.function.Consumer;
 
 
 public class InputThread implements Runnable {
-    Thread thread;
-    InputStream inputStream;
-    Consumer<Message> consumer;
+    final Thread thread;
+    final InputStream inputStream;
+    final Consumer<Message> consumer;
 
     public InputThread(InputStream inputStream, Consumer<Message> consumer) {
         thread = new Thread(this);

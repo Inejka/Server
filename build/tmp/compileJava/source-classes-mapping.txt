@@ -1,17 +1,17 @@
+support/MessageType.java
+ support.MessageType
+support/Commands.java
+ support.Commands
 support/EmptySocket.java
  support.EmptySocket
 model/student/Student.java
  model.student.Student
-support/MessageType.java
- support.MessageType
 model/student/PublicWork.java
  model.student.PublicWork
-Server/ClientSocket.java
- Server.ClientSocket
- Server.ClientSocket$1
- Server.ClientSocket$2
-Server/InputThread.java
- Server.InputThread
+app/Server.java
+ app.Server
+server/ServerThread.java
+ server.ServerThread
 model/student/PackedSurnameAndLimits.java
  model.student.PackedSurnameAndLimits
 support/Message.java
@@ -25,16 +25,14 @@ model/student/PackedGroupAndLimits.java
  model.student.PackedGroupAndLimits
 Main.java
  Main
-support/Commands.java
- support.Commands
+server/ClientSocket.java
+ server.ClientSocket
+ server.ClientSocket$1
 model/Model.java
  model.Model
+server/InputThread.java
+ server.InputThread
 fileWorkers/Saver.java
  fileWorkers.Saver
 model/student/FIO.java
  model.student.FIO
-App/Server.java
- App.Server
-Server/ServerThread.java
- Server.ServerThread
- Server.ServerThread$1
